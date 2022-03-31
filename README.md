@@ -1,2 +1,37 @@
-# Carrito-de-compras-con-JS
-Proyecto subido en Netlify: https://fernandoalexander.netlify.app/
+# Carrito de compras JS
+<br />
+<div align="center" id="top">
+  <a href="https://alexander-portfolio.netlify.app/">
+    Alexander
+  </a>
+
+  <h3 align="center">Proyecto: Carrito de compras con Javascript</h3>
+
+  <p align="center">
+    Proyecto de práctica de conceptos en Javascript
+    <br />
+    <a href="https://carritodecompras-js.netlify.app/" target="_blank">Ver en línea</a>
+    ·
+  </p>
+</div>
+
+<!-- ABOUT THE PROJECT -->
+## Acerca del proyecto
+
+<div align="center">
+    <img src="https://i.postimg.cc/bNkCKPzD/image.png" width="400px"</img> 
+</div>
+
+<br/>
+Proyecto realizado para practicar conceptos básicos de Javascript, estructuras de datos, validaciones.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Tecnologías utilizadas
+
+* [React](https://es.reactjs.org/)
+* [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
+* [TheDogApi](https://docs.thedogapi.com/)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
