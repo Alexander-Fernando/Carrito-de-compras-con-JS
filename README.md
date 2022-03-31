@@ -29,9 +29,8 @@ Proyecto realizado para practicar conceptos básicos de Javascript, estructuras 
 
 ### Tecnologías utilizadas
 
-* [React](https://es.reactjs.org/)
-* [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
-* [TheDogApi](https://docs.thedogapi.com/)
-
+* [html5](https://developer.mozilla.org/es/docs/Glossary/HTML5)
+* [skeleton css](http://getskeleton.com/)
+* [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
